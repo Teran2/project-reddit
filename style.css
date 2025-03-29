@@ -1,0 +1,10 @@
+body {
+  margin: auto;
+  text-align: left;
+  width: 50%;
+}
+
+p {
+  display: inline;
+  font-weight: bolder;
+}
